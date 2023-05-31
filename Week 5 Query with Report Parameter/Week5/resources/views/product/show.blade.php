@@ -22,7 +22,7 @@
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam quidem eaque ut eveniet aut quis rerum. Asperiores accusamus harum ducimus velit odit ut. Saepe, iste optio laudantium sed aliquam sequi.
                             </h5> 
                             <div class="text-center my-4"> 
-                                <a href="#" class="btn btn-warning">Detail Produk</a> 
+                                <a href="/" class="btn btn-warning">Detail Produk</a> 
                             </div> 
                         </div> 
                     </div> 
